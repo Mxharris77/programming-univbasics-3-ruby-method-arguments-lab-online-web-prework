@@ -23,6 +23,7 @@ end
 introduction("Josh")
 introduction_with_language("Dan","Ember.js")
 introduction_with_language_optional("Edwin",language)
+introduction_with_language_optional("Edwin")
 
 
 
