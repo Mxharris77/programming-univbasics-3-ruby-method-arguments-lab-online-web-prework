@@ -5,7 +5,7 @@
 
 name = "Josh"
 def introduction(name)
-  print "Hi, my name is #{name}\n"
+  print "Hi, my name is #{name}"
 end
 
 def introduction_with_language(name,language)
