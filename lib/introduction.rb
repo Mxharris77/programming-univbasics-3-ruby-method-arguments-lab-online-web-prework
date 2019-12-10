@@ -19,11 +19,7 @@ end
 
 introduction(name)
 
-introduction_with_language(name,language)
 
-
-name = "Edwin"
-introduction_with_language_optional
 
 
 
