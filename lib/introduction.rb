@@ -17,12 +17,12 @@ end
 name = "Josh"
 introduction(name)
 
+name = "Edwin"
+introduction_with_language(name,language)
 
-introduction_with_language(name,language)
-introduction_with_language(name,language)
 
 introduction_with_language_optional
-introduction_with_language_optional
+
 
 
 
